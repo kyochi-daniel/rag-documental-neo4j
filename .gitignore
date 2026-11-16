@@ -1,0 +1,14 @@
+
+# Arquivos locais e dados de execução
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.sqlite
+*.sqlite-*
+respostas/
+neo4j/
+import/
+.cache/
